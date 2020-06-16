@@ -51,4 +51,3 @@
 * [在线生成二维码](https://cli.im/)
 
 
-## 欢迎留言补充或者到GitHub提Issues。[GitHub地址](https://github.com/erdong0604/tools)
